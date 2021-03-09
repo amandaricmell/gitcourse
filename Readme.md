@@ -1,3 +1,3 @@
 #Git course
 
-dasdnasuidasduahsisduiaahduaisuddRepositório teste
+Repositório teste
